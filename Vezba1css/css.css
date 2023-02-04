@@ -1,0 +1,10 @@
+h1{color: blue;font-size: 50px;
+    text-align: center}
+        p.class2{color: rgb(136, 40, 225);
+     font-family:serif ;font-size: large;}
+        p.class1{color: brown; font-family: serif;text-decoration: underline blue;}
+body{background-color: black;font-size: large;}
+#slika{background-attachment: fixed;
+background-position: left ; width: 300px;height: 300px;}
+    h1.intro{color: aqua; 
+   }
